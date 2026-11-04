@@ -1,3 +1,5 @@
+> Originally created by Matt Kiang (https://github.com/mkiang/beiwe_data_sample), used under its license.
+
 Information about the Public Sample Beiwe Dataset
 ================
 Last Update: 09 March, 2018
